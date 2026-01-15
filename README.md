@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and R**
 
-- 📝 I regularly write articles on [https://alleyoop.pl/author/jz/](https://alleyoop.pl/author/jz/)
+- 📝 I write articles using **RStudio** on [https://alleyoop.pl/author/jz/](https://alleyoop.pl/author/jz/)
 
 - 📫 How to reach me **s104627@pollub.edu.pl**
 
